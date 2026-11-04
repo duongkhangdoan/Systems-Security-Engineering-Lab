@@ -1,0 +1,16 @@
+# Secret keys
+hmac.key
+*.key
+.env
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime logs
+*.log
+
+# Generated sensor data
+sensor_data.json
+sensor_data_backup.json
